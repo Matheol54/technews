@@ -23,3 +23,4 @@ const navSlide = () => {
 
     navSlide();
    
+    ScrollReveal().reveal('.banner1');
